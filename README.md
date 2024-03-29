@@ -1,2 +1,2 @@
-# battlecity
+Have a good time.
 JavaScript
